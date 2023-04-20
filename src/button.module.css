@@ -1,0 +1,10 @@
+/* --css module-- */
+:local(.button){
+    background-color: red;
+    color: white;
+    font-size: 16px;
+    border: none;
+    padding: 10px 20px;
+  }
+
+  
